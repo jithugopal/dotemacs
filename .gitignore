@@ -7,3 +7,4 @@ places
 *#
 swank/
 ac-comphist.dat
+eshell/*
